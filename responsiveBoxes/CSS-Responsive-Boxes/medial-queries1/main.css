@@ -1,0 +1,35 @@
+body {
+  background: blanchedalmond;
+}
+div {
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+  }
+
+  .a {
+    background: #acacab;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    border: solid 5px rgb(248, 246, 246);
+    margin: 10px;
+    }
+
+    .b {
+      background: #5a5b5c;
+      width: 100%;
+      height: 600px;
+      text-align: center;
+      border: solid 5px rgb(248, 246, 246);
+      margin: 10px;
+      }
+
+      .c {
+        background: #080808;
+        width: 100%;
+        height: 200px;
+        text-align: center;
+        border: solid 5px rgb(248, 246, 246);
+        margin: 10px;
+        }

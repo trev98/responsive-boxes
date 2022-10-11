@@ -1,0 +1,49 @@
+body {
+  background: blanchedalmond;
+}
+div {
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+  }
+
+.a {
+  background: #7b5858;
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  border: solid 5px black;
+  margin: 10px;
+  }
+
+  .b, .c, .d {
+    background: #721919;
+    float:left;
+    width:31%;
+    height: 150px;
+    text-align: center;
+    border: solid 5px black;
+    margin: 10px;
+    }
+
+
+    .e, .f, .g {
+      background: #721919;
+      float:left;
+      width:31%;
+      height: 150px;
+      text-align: center;
+      border: solid 5px black;
+      margin: 10px;
+      }
+
+      .h {
+        background: #7b5858;
+  width: 100%;
+  height: 700px;
+  text-align: center;
+  float: left;
+  border: solid 5px black;
+  margin: 10px;
+  }
+      
